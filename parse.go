@@ -1,4 +1,4 @@
-package link
+package html_linkparser
 
 import (
 	"io"
